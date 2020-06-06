@@ -3,7 +3,7 @@
     "algoliasearch": "^3.33.0",
     "apollo-local-query": "^0.3.1",
     "apollo-server-cache-redis": "^0.3.1",
-    "apollo-server-express": "2.5.0-alpha.0",
+    "apollo-server-express": "2.14.2",
     "apollo-server-plugin-response-cache": "^0.1.0-alpha.0",
     "apollo-upload-client": "^9.1.0",
     "aws-sdk": "2.200.0",
